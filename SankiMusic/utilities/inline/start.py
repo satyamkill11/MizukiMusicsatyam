@@ -41,11 +41,5 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="✭ sᴜᴘᴘᴏʀᴛ ✭", url=config.SUPPORT_GROUP
             )
-        ],
-        [
-            InlineKeyboardButton(
-                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://github.com/XdityaHalder/SankiMusic"
-            )
         ]
-     ]
     return buttons
