@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://t.me/CyberMusicProject"
+                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://t.me/chatbotsupportin"
             )
         ]
      ]
